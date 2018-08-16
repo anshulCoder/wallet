@@ -119,18 +119,17 @@ defined('EVENT_DECLINED')   OR define('EVENT_DECLINED', 2);
 /* API Feeds */
 defined('TWITTER_API') OR define('TWITTER_API','https://api.twitter.com/1.1/');
 defined('FACEBOOK_API') OR define('FACEBOOK_API','https://graph.facebook.com/v2.7/');
-defined('CONSUMER_KEY') OR define('CONSUMER_KEY','vsi8yrEMdAaFfjz1vTLMOHnNe');
-defined('CONSUMER_SECRET') OR define('CONSUMER_SECRET','T5nSoTaf8rgpXYbWqiLMGSFsdajfHnZ8uXhqz5xyzXgnUaQqbi');
-defined('ACCESS_TOKEN') OR define('ACCESS_TOKEN','15804491-nkhDglNJ5uNSBGixul3kwrnQJWCkZA9tYLuUM3yQk');
-defined('ACCESS_SECRET') OR define('ACCESS_SECRET','eRdLrS6eAwj07Ul5264YUZLf0AXCP9rbicAlXsLFLDjMB');
-defined('BEARER_TOKEN') OR define('BEARER_TOKEN','AAAAAAAAAAAAAAAAAAAAAFhQegAAAAAAePdzbMWF5F%2FfVU5Ph09OIb22dnE%3D7qKzt9ZZQ6IwfUErgznCPq6AcEmIZqYTnKAamzks6ojV72Nobn');
-//defined('FACEBOOK_TOKEN') OR define('FACEBOOK_TOKEN','EAAUZBjn6HCmQBAGRccGXJCh7iVjMz7S1G0RdyszbH81ZAndaRZBOWt7S2M4CIPIWm0oplVisZAevWCqALhluARjZBGb2kELD4l6cJAwAuQgh9RtOKECzcPpsDpUe2ZA9uXeIIFUsXiFaquCjcdlZAFYpXmb99DIBzQZD');
-defined('FACEBOOK_TOKEN') OR define('FACEBOOK_TOKEN','EAAJCOvplqxQBAAPtYtZAUdJyvlSWScoSYX1qLmdmaMCaKMCKUsiEmWyPveQfz2Ot4HpZCzyKKfPIRjZCwzReMZAIWpsTuiU3bh8lR0jXWS8oqAyO98MleXFNjsM06TtMLFuOc88ppE6XZAGgwALzRo89Gvrhr9zUZD');
-defined('INSTA_API_KEY') OR define('INSTA_API_KEY','362388bd44886b30aa0d9973d7b99794');
-defined('INSTA_AUTH_TOKEN') OR define('INSTA_AUTH_TOKEN','2e8a6cb6ddb931a722e05d2c99dc3888');
-defined('GOOGLE_API_KEY') OR define('GOOGLE_API_KEY','AIzaSyC0XOtBMXgQaLJg_Wgatzx6zlyjmx4C7xw');
-defined('BCJUKEBOX_CLIENT') OR define('BCJUKEBOX_CLIENT','UUN5m270I7nxuuBDzukIVtAV0QxL5UQEV1FaYmUg');
-defined('TEXTLOCAL_API') OR define('TEXTLOCAL_API','cFIpDcHmYnc-mdteI9XWFa41zNZSq9Z3crlHtQAZCb');
+defined('CONSUMER_KEY') OR define('CONSUMER_KEY','---- Your Key ----');
+defined('CONSUMER_SECRET') OR define('CONSUMER_SECRET','---- Your Key ----');
+defined('ACCESS_TOKEN') OR define('ACCESS_TOKEN','---- Your Key ----');
+defined('ACCESS_SECRET') OR define('ACCESS_SECRET','---- Your Key ----');
+defined('BEARER_TOKEN') OR define('BEARER_TOKEN','---- Your Key ----');
+defined('FACEBOOK_TOKEN') OR define('FACEBOOK_TOKEN','---- Your Key ----');
+defined('INSTA_API_KEY') OR define('INSTA_API_KEY','---- Your Key ----');
+defined('INSTA_AUTH_TOKEN') OR define('INSTA_AUTH_TOKEN','---- Your Key ----');
+defined('GOOGLE_API_KEY') OR define('GOOGLE_API_KEY','---- Your Key ----');
+defined('BCJUKEBOX_CLIENT') OR define('BCJUKEBOX_CLIENT','---- Your Key ----');
+defined('TEXTLOCAL_API') OR define('TEXTLOCAL_API','---- Your Key ----');
 
 
 /* Image Paths for Fnb*/
